@@ -2,11 +2,22 @@
 
 ![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
 
-BlackDoc is a two-column [Jekyll](http://jekyllrb.com) theme that's ideal for websites that require a master-detail layout for viewing of content. It's based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme.
+THE FUTURE OF MOBILE COMPUTING
 
-![BlackDoc screenshot](https://raw.githubusercontent.com/karloespiritu/blackdoc/master/public/images/blackdoc-screenshot.jpg)
 
 ## Contents
+
+The concept of a self-contained, connected and easily portable device has been with us since the dawn of science fiction. When analysts and bloggers look at the future of computing, mobile or otherwise, they often focus on hardware developments. Whether their enthusiasm is justified or not, people get excited about higher resolution screens, front facing cameras and dual-core processors. Researchers and analysts have predicted that by 2025 there will be six devices per human on the planet. If this is true, it  means that we would  expect to see 50 billion more connected devices over the next decade. So, while a proclamation that, “5G phones with 3D cameras will become the norm in 2 – 3 years,” is a prediction that may possibly come true, it is disingenuous to say it without also discussing the software that will emerge to facilitate the trend.
+
+
+[![future of mobile technology](https://img.youtube.com/vi/FScddkTMlTc/0.jpg)](https://www.youtube.com/watch?v=FScddkTMlTc)
+
+
+![Naringu](images/screenshot-1.png)
+![Naringu](images/screenshot-2.png)
+![Naringu](images/screenshot-3.png)
+![Naringu](images/screenshot-4.png)
+
 
 - [Features](#features)
 - [Quick Start](#quick-start)
